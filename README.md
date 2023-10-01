@@ -10,6 +10,8 @@ Hopefully this works!
 
 In the folder `/src-tauri/src/` make a .txt file called `secret.txt` that has a Metaphor API key.
 
+`cd metaphor_demo`
+
 `yarn`
 
 `yarn start`
