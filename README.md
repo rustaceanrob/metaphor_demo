@@ -23,3 +23,5 @@ The source folder contains a simple React, Tailwind and Vite frontend. I threw i
 ### src-tauri/
 
 This is the API logic written in Rust, the hottest programming language on the block. I like Rust for a number of reason, but mostly for the killer complier and type safety. I handled the HTTPS requests with a package called `reqwests` and forward the plaintext string to the frontend. 
+
+<img width="1189" alt="Screenshot 2023-10-01 at 5 17 01 PM" src="https://github.com/rustaceanrob/metaphor_demo/assets/102320249/e5059ab3-37f9-4d45-b415-d66251f1b15b">
