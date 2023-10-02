@@ -16,3 +16,5 @@ This is the API logic written in Rust, the hottest programming language on the b
 
 <img width="1194" alt="Screenshot 2023-10-01 at 5 17 23 PM" src="https://github.com/rustaceanrob/metaphor_demo/assets/102320249/f43e26da-a44b-4f10-ac60-1cfdffa5b797">
 
+<img width="1195" alt="Screenshot 2023-10-01 at 5 14 29 PM" src="https://github.com/rustaceanrob/metaphor_demo/assets/102320249/fa1ed11c-f44e-47a1-a98b-c087503b8412">
+
